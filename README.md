@@ -1,6 +1,6 @@
 # IIC2513 - Tecnologías y Aplicaciones Web 
 ## 2022-1 S2
-Bienvenida/o/e al repositorio de la sección 2 del curso PUC IIC2513 Tecnologías y Aplicaciones Web, en el período 2022-2. Este repositorio tiene por fin exponer material de trabajo y foro de dudas de la sección.
+Bienvenida/o/e al repositorio de la sección 2 del curso PUC IIC2513 Tecnologías y Aplicaciones Web, en el período 2022-1. Este repositorio tiene por fin exponer material de trabajo y foro de dudas de la sección.
 
 ## Tabla de contenidos
  * [Equipo](#equipo)
@@ -34,11 +34,16 @@ Bienvenida/o/e al repositorio de la sección 2 del curso PUC IIC2513 Tecnología
 | Pedro	Herrera |	pedro.herrera@uc.cl |
 | Pablo Kipreos	| pjkipreos@uc.cl |
 | Maite Madalosso	| maite.madalosso@uc.cl |
+| Trinidad Carrasco | tpcarrasco@uc.cl |
+| Cristóbal Rubio | corubio@uc.cl |
+| Vicente Reyes | vicerc@uc.cl |
+| Felipe Lois | fplois@uc.cl |
+| Víctor Hernández | victorllagos@uc.cl |
 
 
 # Dudas
 
-La página de [Issues](../../issues) se utilizará como foro para preguntas relacionadas administrativas y de materia. Dudas sobre el proyecto deben ser hechas en el foro del repositorio respectivo. Para problemas personales o casos particulares que no puedan servir a sus compañeros/as/es, pueden escribir a su ayudante de seguimiento, al ayudante coordinador o al profesor.
+La página de [Issues](../../issues) se utilizará como foro para preguntas relacionadas administrativas, de materia y del proyecto. Para problemas personales o casos particulares que no puedan servir a sus compañeros/as/es, pueden escribir a su ayudante de seguimiento, al ayudante coordinador o al profesor.
 
 ## Etiquetas
 
