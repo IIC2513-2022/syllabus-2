@@ -17,15 +17,15 @@ Los diferentes enunciados asociados al proyecto los pueden encontrar en [esta se
 
 ## Knowledge base (Wiki)
 
-Tendremos mucha información útil en la Wiki de los proyectos, la cual pueden encontrar en el menú superior o haciendo clic [aquí](../../wiki).
+Tendremos mucha información útil en la Wiki de los proyectos, la cual pueden encontrar en el menú superior o haciendo clic [aquí](wiki).
 
-### Getting Started
+### Getting Started (NO DISPONIBLE AÚN)
 
-En particular, les sugerimos revisar [esta sección](../../wiki/Getting-Started) en la wiki antes de comenzar el desarrollo de funcionalidades del proyecto.
+En particular, les sugerimos revisar [esta sección](wiki/Getting-Started) en la wiki antes de comenzar el desarrollo de funcionalidades del proyecto.
 
-### Comenzando el desarrollo
+### Comenzando el desarrollo (NO DISPONIBLE AÚN)
 
-En la sección [Comenzando el desarrollo](../../wiki/Comenzando-el-desarrollo) encontrarán información relacionada al template del curso y su uso.
+En la sección [Comenzando el desarrollo](wiki/Comenzando-el-desarrollo) encontrarán información relacionada al template del curso y su uso.
 
 ## Cápsulas complementarias
 
