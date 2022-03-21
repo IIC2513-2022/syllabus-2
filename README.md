@@ -45,6 +45,8 @@ Bienvenida/o/e al repositorio de la sección 2 del curso PUC IIC2513 Tecnología
 
 La página de [Issues](../../issues) se utilizará como foro para preguntas relacionadas administrativas, de materia y del proyecto. Para problemas personales o casos particulares que no puedan servir a sus compañeros/as/es, pueden escribir a su ayudante de seguimiento, al ayudante coordinador o al profesor.
 
+Los domingos no se contestarán issues. Por lo que podrán ser publicadas, pero serán contestadas la semana siguiente. 
+
 ## Etiquetas
 
 Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categorías](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar la búsqueda de problemas similares. Una entrada puede tener múltiples etiquetas. Aunque el equipo docente irá etiquetando según corresponda, también puedes adelantarte y sugerir una etiqueta. Sobre todo, sugiere la etiqueta de 'Resuelta' cuando lo esté. \
@@ -59,6 +61,9 @@ Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categoría
 * [Inválida](../../labels/Inv%C3%A1lida): la pregunta no cumple los estándares o viola el procedimiento descrito abajo.
 * [Meta-pregunta](../../labels/Meta-Pregunta): pregunta sobre cómo y qué preguntar.
 * [Tengo un error](../../labels/Tengo%20un%20error): para preguntar sobre errores o bugs en códigos antes de caer en la desesperación (pero luego de haber buscado apropiadamente en la Web...).
+* [Heroku](../../labels/Heroku): para preguntar sobre errores o dudas que pueden tener con Heroku y el _deploy_ de su _app_.
+* [Postgres](../../labels/Postgres): para preguntar sobre errores o dudas que pueden tener con el manejo de su base de datos.
+* [Importante](../../labels/Importante): issues con información importante que **deben** leer.
 * [Resuelta](../../labels/Resuelta): para preguntas que hayan sido resueltas. Con ella se evita cerrar preguntas resueltas que puedan seguir siendo muy útiles, por estar relacionadas a la entrega presente.
 
 ## Procedimiento
