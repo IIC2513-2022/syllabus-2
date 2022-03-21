@@ -17,7 +17,7 @@ Los diferentes enunciados asociados al proyecto los pueden encontrar en [esta se
 
 ## Knowledge base (Wiki)
 
-Tendremos mucha información útil en la Wiki de los proyectos, la cual pueden encontrar en el menú superior o haciendo clic [aquí](../../../../wiki).
+Tendremos mucha información útil en la Wiki de los proyectos, la cual pueden encontrar en el menú superior o haciendo clic [aquí](../../../wiki).
 
 ### Getting Started (NO DISPONIBLE AÚN)
 
