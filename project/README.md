@@ -27,7 +27,7 @@ En particular, les sugerimos revisar [esta sección](wiki/Getting-Started) en la
 
 En la sección [Comenzando el desarrollo](wiki/Comenzando-el-desarrollo) encontrarán información relacionada al template del curso y su uso.
 
-## Cápsulas complementarias
+## Cápsulas complementarias (NO HAY CÁPSULAS AÚN)
 
 El código asociado a cada cápsula complementaria lo pueden encontrar en [esta sección](cápsulas).
 
