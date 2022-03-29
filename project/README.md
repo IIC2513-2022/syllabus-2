@@ -19,13 +19,13 @@ Los diferentes enunciados asociados al proyecto los pueden encontrar en [esta se
 
 Tendremos mucha información útil en la Wiki de los proyectos, la cual pueden encontrar en el menú superior o haciendo clic [aquí](../../../wiki).
 
-### Getting Started (NO DISPONIBLE AÚN)
+### Ambiente de desarollo
 
-En particular, les sugerimos revisar [esta sección](wiki/Getting-Started) en la wiki antes de comenzar el desarrollo de funcionalidades del proyecto.
+En esta [sección](https://github.com/IIC2513-2022/syllabus-2/wiki/Ambiente-para-el-proyecto) encontrarán las dependencias que necesitan para su proyecto
 
-### Comenzando el desarrollo (NO DISPONIBLE AÚN)
+### Comenzando el desarrollo
 
-En la sección [Comenzando el desarrollo](wiki/Comenzando-el-desarrollo) encontrarán información relacionada al template del curso y su uso.
+En la sección [Comenzando el desarrollo](https://github.com/IIC2513-2022/syllabus-2/wiki/Comenzando-el-desarrollo) encontrarán información relacionada al template del curso y su uso.
 
 ## Cápsulas complementarias (NO HAY CÁPSULAS AÚN)
 
