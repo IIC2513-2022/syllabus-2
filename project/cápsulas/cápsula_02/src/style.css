@@ -1,0 +1,240 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/*** LOGO ***/
+#brandbar{
+    background-color: rgba(255, 192, 203, 0.541);
+    margin: 0;
+    padding: 0;
+}
+
+#brand{
+    margin-top: 0px;
+    font-family: 'Pacifico', cursive;
+    border: black solid;
+    width: 300px;
+}
+
+#brand p{
+    margin: 0;
+}
+
+#brand img {
+    width: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#brand span {
+    margin: 0px;
+    font-size: 40px;
+}
+
+/*** STICKY BAR***/
+#sticky-navbar p {
+    border: black solid;
+    text-align: center;
+    background-color: lightgreen;
+    margin: 0;
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(146, 142, 142);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+}
+
+/*** ICONOS ***/
+#iconos {
+    padding: 2px;
+    margin-right: 10px;
+}
+
+#iconos i{
+    font-size: 36px;
+}
+
+/*** HEADER ***/
+header {
+    border: rgb(15, 1, 1) solid;
+    padding-top: 50px;
+}
+.profile-pic img {
+    width: 150px;
+}
+
+/*** POSITIONS (relative y absolute) ***/
+#brand span {
+    position: absolute;
+    top: 10px;
+    left: 80px;
+}
+#brand {
+    margin-left: 0px;
+    position: relative;
+}
+
+/*** FLOATING y POSITION (sticky) ***/
+#sticky-navbar p {
+    width: 25%;
+    float: left;
+}
+#sticky-navbar {
+    position: sticky;
+    top: 0;
+}
+/*** FLOATING y POSITION (fixed) ***/
+#iconos {
+    position: fixed;
+    right: 0;
+    top: 50%
+}
+
+#iconos i{
+    float: right;
+    clear: both;
+}
+
+.profile-pic {
+    float: left;
+}
+
+/*** GRID LAYOUT ***/
+
+section h1 {
+    font-size: 2em;
+}
+.box {
+    color: white;
+    text-align: center;
+    border: 0.1em solid grey;
+    font-size: 1.5em;
+}
+
+section#section-one .grid {
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr ;
+    margin: 1em;
+    grid-gap: 1em;
+    height: 60vh;
+}
+.s1-a {
+    background-image: url("https://imgur.com/y4ilcXd.png");
+    background-size: cover;
+    grid-column: 1  / 3;
+    grid-row: 1 / 3;
+}
+.s1-b {
+    background-image: url("https://imgur.com/EleoICd.png");
+    background-size: cover;
+    grid-column: 4  / 6;
+    grid-row: 1 / 4;
+}
+.s1-c { 
+    background-image: url("https://imgur.com/WgDcjHc.png");
+    background-size: cover;
+    grid-column: 1  / 3;
+    grid-row: 3 / 6;
+}
+.s1-d {
+    background-image: url("https://imgur.com/ThdalQI.png");
+    background-size: cover;
+    grid-column: 3  / 4;
+    grid-row: 1 / 6;
+}
+.s1-e {
+    background-image: url("https://imgur.com/mMwEQL9.png");
+    background-size: cover;
+    grid-column: 4 / 6;
+    grid-row: 4 / 6;
+}
+
+/*** FLEXBOX LAYOUT ***/
+.flex div {
+    width: 250px;
+    height: 250px;
+}
+section#section-two .flex {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+    margin: 0;
+    height: 100%;
+    list-style: none;
+    flex-flow: row wrap;
+}
+
+.s2-a {
+    background-image: url("https://imgur.com/kwnbqu1.png");
+    background-size: cover;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+
+.s2-b {
+    background-image: url("https://imgur.com/SYnP2qy.png");
+    background-size: cover;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+.s2-c {
+    background-image: url("https://imgur.com/cUNoRIl.png");
+    background-size: cover;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+.s2-d {
+    background-image: url("https://imgur.com/N2rUUaR.png");
+    background-size: cover;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+.s2-e {
+    background-image: url("https://imgur.com/KItYiXM.png");
+    background-size: cover;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+.s2-f {
+    background-image: url("https://imgur.com/PA0UB0o.png");
+    background-size: cover;
+    padding: 5px;
+    width: auto;
+    margin-top: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(128, 0, 128, 0.11);
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    display: inline-block;
+}
+
