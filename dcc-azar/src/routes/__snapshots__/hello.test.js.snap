@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET /hello responds correctly 1`] = `
+"<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset=\\"utf-8\\">
+    <title>IIC2513 - CHANGE-ME</title>
+    
+      <link rel=\\"stylesheet\\" href=\\"/assets/app.css\\">
+    
+  </head>
+
+  <body>
+    <header>
+      <div id=\\"logo\\">
+        <img src=\\"/assets/logo.png\\" alt=\\"Logo\\" />
+      </div>
+    </header>
+    
+
+<p>
+  Hello… <a href=\\"/hello/your-name-here\\">your-name-here</a>.
+</p>
+
+<p>
+  You can also fill this form if you feel like doing so...
+  <form action=\\"/hello\\" enctype=\\"multipart/form-data\\" method=\\"post\\">
+    <input type=\\"text\\" name=\\"username\\">
+    <input type=\\"password\\" name=\\"password\\">
+    <input type=\\"file\\" name=\\"uploads\\" multiple=\\"multiple\\"><br>
+    <input type=\\"submit\\" value=\\"Subir\\">
+  </form>
+</p>
+
+    <script src=\\"/assets/app.js\\"></script>
+  </body>
+
+</html>
+"
+`;
