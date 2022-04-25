@@ -10,6 +10,6 @@
 | 5.1 | Koa y el Template Parte I | [Video](https://www.loom.com/share/4c49a3b11a274dd8ab1c4be683b1990e) | - | - |
 | 5.2 | Koa y el Template Parte II | [Video](https://www.loom.com/share/ed97f5bc4c2441839b4a1e8313d3fb42) | - | - |
 | 5.3 | Koa y el Template Parte III | [Video](https://www.loom.com/share/5461a2a880d14b9482e80fc74397d386) | - | - |
-| 06 | Intro a Sequelize |  [Video](https://www.loom.com/share/bb15334c56d34cddb0599eea2750d370) | - | - |
-| 6.1 | Creación de recursos y Finders | [Video](https://www.loom.com/share/f0aed6caafea477cbb52f2866abd7c40) | - | - |
-| 6.2 | Validaciones y restricciones con Sequelize | [Video](https://www.loom.com/share/c03f9aad95db4b9f8d41e9839d16e5a4) | - | - |
+| 06 | Intro a Sequelize |  [Video](https://www.loom.com/share/bb15334c56d34cddb0599eea2750d370) | - | [Core Concepts](https://sequelize.org/docs/v6/category/core-concepts/) |
+| 6.1 | Creación de recursos y Finders | [Video](https://www.loom.com/share/f0aed6caafea477cbb52f2866abd7c40) | - | [Creating an instance](https://sequelize.org/docs/v6/core-concepts/model-instances/), [Finders](https://sequelize.org/docs/v6/core-concepts/model-querying-finders/) |
+| 6.2 | Validaciones y restricciones con Sequelize | [Video](https://www.loom.com/share/c03f9aad95db4b9f8d41e9839d16e5a4) | - | [Validations&&Constraints](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)|
