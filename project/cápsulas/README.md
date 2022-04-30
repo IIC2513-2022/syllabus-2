@@ -13,6 +13,6 @@
 | 06 | Intro a Sequelize |  [Video](https://www.loom.com/share/bb15334c56d34cddb0599eea2750d370) | - | [Core Concepts](https://sequelize.org/docs/v6/category/core-concepts/) |
 | 6.1 | Creación de recursos y Finders | [Video](https://www.loom.com/share/f0aed6caafea477cbb52f2866abd7c40) | - | [Creating an instance](https://sequelize.org/docs/v6/core-concepts/model-instances/), [Finders](https://sequelize.org/docs/v6/core-concepts/model-querying-finders/) |
 | 6.2 | Validaciones y restricciones con Sequelize | [Video](https://www.loom.com/share/c03f9aad95db4b9f8d41e9839d16e5a4) | - | [Validations&&Constraints](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)|
-| 7.1 | API - Backend | [Video](https://loom.com/share/a47fc64e37c24ec4bf57830e6c834bbc) | [Código](https://github.com/IIC2513-2022/dcc-azar) | - |
-| 7.2 | API - Frontend Parte I | [Video](https://www.loom.com/share/d349c2a3b3d9449fb0b15756cee8f819) | [Código](https://github.com/IIC2513-2022/dcc-azar-frontend) | - |
-| 7.3 | API - Frontend Parte II | [Video](https://www.loom.com/share/7f6ffaeacaa24326935e75f544643da8) | [Código](https://github.com/IIC2513-2022/dcc-azar-frontend) | - |
+| 7.1 | API - Backend | [Video](https://loom.com/share/a47fc64e37c24ec4bf57830e6c834bbc) | - | - |
+| 7.2 | API - Frontend Parte I | [Video](https://www.loom.com/share/d349c2a3b3d9449fb0b15756cee8f819) | - | - |
+| 7.3 | API - Frontend Parte II | [Video](https://www.loom.com/share/7f6ffaeacaa24326935e75f544643da8) | - | - |
