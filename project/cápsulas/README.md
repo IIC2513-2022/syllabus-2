@@ -17,3 +17,5 @@
 | 7.2 | API - Frontend Parte I | [Video](https://www.loom.com/share/d349c2a3b3d9449fb0b15756cee8f819) | - | - |
 | 7.3 | API - Frontend Parte II | [Video](https://www.loom.com/share/7f6ffaeacaa24326935e75f544643da8) | - | - |
 | 8.1 | Creación recurso con asociación  | [Video](https://www.loom.com/share/d046139e242641289dc4a058e3e83572) | - |[Association](https://sequelize.org/docs/v6/core-concepts/assocs/)|
+| 9.1 | Deploy a Heroku Parte I  | [Video](https://www.loom.com/share/257666bcb3ed442aa98a35e79e424273) | - |[Heroku-cli instalación](https://devcenter.heroku.com/articles/heroku-cli), [Heroku Documentation](https://www.heroku.com/platform)|
+| 9.2 | Deploy a Heroku Parte II: Consultar desde frontend  | [Video](https://www.loom.com/share/64e216c4241c41589b56c4dd88e0b7d6) | - | - |
