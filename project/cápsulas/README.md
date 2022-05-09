@@ -19,3 +19,7 @@
 | 8.1 | Creación recurso con asociación  | [Video](https://www.loom.com/share/d046139e242641289dc4a058e3e83572) | - |[Association](https://sequelize.org/docs/v6/core-concepts/assocs/)|
 | 9.1 | Deploy a Heroku Parte I  | [Video](https://www.loom.com/share/257666bcb3ed442aa98a35e79e424273) | - |[Heroku-cli instalación](https://devcenter.heroku.com/articles/heroku-cli), [Heroku Documentation](https://www.heroku.com/platform)|
 | 9.2 | Deploy a Heroku Parte II: Consultar desde frontend  | [Video](https://www.loom.com/share/64e216c4241c41589b56c4dd88e0b7d6) | - | - |
+| 10.1 | JS DOM Parte I: Introducción | [Video](https://www.loom.com/share/b16981b6258940c2a02df50d7225deaa) | - | - |
+| 10.2 | JS DOM Parte II: Implementación básica | [Video](https://www.loom.com/share/8a77add53d164ef384dbabbea8a3f826) | - | - |
+| 10.3 | JS DOM Parte III: Drag & Drop | [Video](https://www.loom.com/share/c3ee7a6c6a824322bd49918be33b82e5) | - | - |
+
