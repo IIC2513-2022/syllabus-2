@@ -28,3 +28,5 @@
 | 12.2 | Manejo de Sesión: Crear endpoint login | [Video](https://www.loom.com/share/d49647b3da314ab7b1f98b4f445f313c)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/5)  | - |
 | 12.3 | Manejo de Sesión: Middleware para autentificación    | [Video](https://www.loom.com/share/cf8f3cce35e543b893a7b34a8f5ab7c5)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/5)| - |
 | 12.4 | Manejo de Sesión: Probando desde Postamn    | [Video](https://www.loom.com/share/35886422291743c7a86c0bd058577967)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/5)  | - |
+| 12.5 | Manejo de Sesión: Creación de un jwt    | [Video](https://www.loom.com/share/3f30e2941b654cc5aeb862b558b6b706)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/6)  | - |
+| 13 | Bcrypt: Hashing de contraseñas    | [Video](https://www.loom.com/share/03c216c7af754f76a9928ff85db15099)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/7)  | - |
