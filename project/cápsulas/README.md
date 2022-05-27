@@ -30,3 +30,8 @@
 | 12.4 | Manejo de Sesión: Probando desde Postamn    | [Video](https://www.loom.com/share/35886422291743c7a86c0bd058577967)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/5)  | - |
 | 12.5 | Manejo de Sesión: Creación de un jwt    | [Video](https://www.loom.com/share/3f30e2941b654cc5aeb862b558b6b706)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/6)  | - |
 | 13 | Bcrypt: Hashing de contraseñas    | [Video](https://www.loom.com/share/03c216c7af754f76a9928ff85db15099)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/7)  | - |
+| 14.1 | React: Contexto y Manejo de sesión I - Contexto y Autentificación   | [Video](https://www.loom.com/share/09816ed1703d443e9c6592e0e0a1ed52)                        | - | - |
+| 14.2 | React: Contexto y Manejo de sesión II - Página Login   | [Video](https://www.loom.com/share/23fc65bac0d54826b853e8be33751f74)                        | - | - |
+| 14.3 | React: Contexto y Manejo de sesión III - Uso de Usuario Actual   | [Video](https://www.loom.com/share/b44c2cda5c13419e891cb32c22994bed)                        | - | - |
+| 14.4 | React: Contexto y Manejo de sesión IV - Local Storage   | [Video](https://www.loom.com/share/09b00098997a4d5b864ddcfc468bae2c)                        | - | - |
+
