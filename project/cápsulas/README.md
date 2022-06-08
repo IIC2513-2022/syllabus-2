@@ -34,5 +34,5 @@
 | 14.2 | React: Contexto y Manejo de sesión II - Página Login   | [Video](https://www.loom.com/share/23fc65bac0d54826b853e8be33751f74)                        | - | - |
 | 14.3 | React: Contexto y Manejo de sesión III - Uso de Usuario Actual   | [Video](https://www.loom.com/share/b44c2cda5c13419e891cb32c22994bed)                        | - | - |
 | 14.4 | React: Contexto y Manejo de sesión IV - Local Storage   | [Video](https://www.loom.com/share/09b00098997a4d5b864ddcfc468bae2c)                        | - | - |
-| 15.1 | Testeo de endpoints en backend - Intro y Post   | [Video](https://www.loom.com/share/8259771a8c8947778b0913965215beb2)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/8) | - |
+| 15.1 | Testeo de endpoints en backend - Intro y Post   | [Video](https://www.loom.com/share/8259771a8c8947778b0913965215beb2)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/8) | [Cross-Env](https://www.npmjs.com/package/cross-env), [Jest Documentation](https://jestjs.io/docs/getting-started), [SuperTest](https://sammeechward.com/testing-an-express-app-with-supertest-and-jest/) |
 | 15.2 | Testeo de endpoints en backend - Otras rutas | [Video](https://www.loom.com/share/3c6d856ba288423a8363a86b0f257afa)                        | [Código](https://github.com/IIC2513-2022/dcc-azar/pull/8) | - |
