@@ -4,10 +4,6 @@
 
 Por **Gonzalo Concha** (gonzalo.concha@uc.cl)
 
-### Video
-La cápsula incluye un video, en el siguiente [enlace](https://drive.google.com/file/d/1G1-e0AsO5X7Pe-3srihPniFNE-18oVIp/view).
-
-
 ## ¿Qué veremos? 
 
 En la cápsula se verá que es ESLint, cómo instalar ESLint en proyecto y cómo usarlo.
